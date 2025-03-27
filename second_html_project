@@ -1,0 +1,11 @@
+<!DOCTYPE   html>
+<html>              <!-- Start of HTML tag -->
+<head>              <!-- Start of Head tag -->
+    <title>Second HTML Project</title> 
+<link href="style.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head> 
+<body>              <!-- Start of Body tag -->
+    <h1>Second HTML Project</h1> 
+    <p>This is my second HTML project
+    </p>
